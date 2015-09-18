@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: container_users
-# Recipe:: default
+# Recipe:: docker_container
 #
 # The MIT License (MIT)
 # 
